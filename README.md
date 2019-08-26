@@ -1,2 +1,6 @@
 # hello-world
-Standard repository containing information that doesn't fall elsewhere.
+
+Hey everyone!
+
+I'm a second year Game Design and Development student at RIT.
+Currently I'm into digital art and I plan on making plenty of games in the future.
